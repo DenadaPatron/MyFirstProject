@@ -8,22 +8,13 @@
 
 <?php
 
-$wantedgood = "specs";
+$provisionedActivities = array("Specs", "Drugs", "Rock and Roll");
 
-switch($wantedgood):
-    case "specs":
-        echo "You have to be 16 to buy specs";
-        break;
-    case "mugs":
-        echo "You have to be 18 to buy mugs";
-        break;
-    case "sausage_rolls":
-        echo "You have to be 21 to buy sausage rolls";
-        break;
-    default:
-        echo "I don't know this particular product";
+foreach($provisionedActivities as $x):
+        print "<p>$x</p>";
+endforeach;
 
-endswitch;
+
 ?>
 
 
