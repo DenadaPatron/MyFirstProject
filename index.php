@@ -10,8 +10,12 @@
 
 $provisionedActivities = array("Specs", "Drugs", "Rock and Roll");
 
+$provisionedActivities[1] = "Hugs"; //changes drugs with hugs
+
+unset($provisionedActivities[2]); // deletes rock and roll
+
 foreach($provisionedActivities as $x):
-        print "<p>$x</p>";
+        print "<p>$x</p>";      //provides all the possible options
 endforeach;
 
 
