@@ -8,15 +8,27 @@
 
 <?php
 
-$provisionedActivities = array("Specs", "Drugs", "Rock and Roll");
+for ($i = 1; $i < 31; $i++):
+     if($i % 2 == 0){
+         echo "On the" . $i . "day of the month specs are available";
+}
+     elseif($i % 3 == 0 ){
+        echo "On the" . $i . "day of the month mugs are available";
+ }
+    elseif($i % 4 == 0){
+        echo "On the" . $i . "day of the month sausages are available";
+    }
 
-$provisionedActivities[1] = "Hugs"; //changes drugs with hugs
 
-unset($provisionedActivities[2]); // deletes rock and roll
 
-foreach($provisionedActivities as $x):
-        print "<p>$x</p>";      //provides all the possible options
-endforeach;
+
+
+
+
+
+
+endfor;
+
 
 
 ?>
