@@ -21,6 +21,9 @@ for($i = 1; $i <=30; $i++):
     elseif($i%2==0 && $i%3==0) {
         echo "On the" . $i . " day, specs and mugs are available" . "<br/> \n";
     }
+    elseif($i%2==0 && $i%4==0){
+        echo "On the" . $i . " day, specs and sausage rolls are available" . "<br/> \n";
+    }
 
 
 
