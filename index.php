@@ -10,7 +10,7 @@
 
 for($i = 1; $i <=30; $i++):
     if($i%2==0){
-        echo "On the " . $i .  " day, specs are availabl \n";
+        echo " \n On the " . $i .  " day, specs are available";
 
     }
 
