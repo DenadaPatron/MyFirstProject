@@ -7,7 +7,6 @@
 <body>
 
 <?php
-
 for($i = 1; $i <=30; $i++):
 
     $ends = array('th','st','nd','rd','th','th','th','th','th','th');
@@ -43,9 +42,6 @@ for($i = 1; $i <=30; $i++):
         echo "On the " . $a. " day, nothing is available" . "<br/> \n";
     }
 endfor;
-
-
-
 ?>
 
 
