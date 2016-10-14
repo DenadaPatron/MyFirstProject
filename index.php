@@ -9,7 +9,12 @@
 <?php
 
 for($i = 1; $i <=30; $i++):
-    if($i%2==0){
+    if($i%2==0 && $i%3==0 && $i%4==0){
+        echo "On the" . $i . " day, specs, mugs and sausage rolls are available";
+    }
+
+
+    elseif($i%2==0){
         echo " On the " . $i .  " day, specs are available" . "<br/>\n";
     }
     elseif($i%3==0){
@@ -32,7 +37,9 @@ for($i = 1; $i <=30; $i++):
 
 
 
-
+    else{
+        echo "On the " . $i . " day, nothing is available" . "<br/> \n";
+    }
 
 endfor;
 
