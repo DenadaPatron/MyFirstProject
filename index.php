@@ -31,7 +31,7 @@ else{
     echo "On the " .$days . " day of the month sausages are available" . "<br/ \n>";
     $sausages = $sausages + 1;
 }}
-while(($days <= 30) && ($specs <=7) && ($mugs <= 7) && ($sausages <=7))
+while(($days <= 30) && ($specs <7) && ($mugs <= 7) && ($sausages <=7))
 
 
 
