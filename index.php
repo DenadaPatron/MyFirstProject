@@ -17,9 +17,10 @@ $todaysGood = 0;
 
 while(($days <= 30) && ($specs <=7) && ($mugs <= 7) && ($sausages <=7)):
     $todaysGood = rand(0,2);
-    $days = $days + 1;
+    //$days = $days + 1;
+    echo $todaysGood;
 
-    if($todaysGood = 1){
+   /* if($todaysGood = 1){
         echo "On the ". $days ." day of month specs are available" . "<br/ \n>";
         $specs = $specs + 1;
     }
@@ -30,7 +31,7 @@ while(($days <= 30) && ($specs <=7) && ($mugs <= 7) && ($sausages <=7)):
     else{
         echo "On the " .$days . " day of the month sausages are available" . "<br/ \n>";
         $sausages = $sausages + 1;
-    }
+    }--*/
 endwhile;
 
 
