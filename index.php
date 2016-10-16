@@ -34,11 +34,10 @@ do{
         $sausages = $sausages + 1;
     }
 
-    else{
-        echo "No more goods available this month.";
-    }
 }
-while(($days <= 30) && ($specs <7) && ($mugs < 7) && ($sausages <7))
+while(($days <= 30) && ($specs <7) && ($mugs < 7) && ($sausages <7));
+
+echo "No more goods available this month.";
 
 
 
