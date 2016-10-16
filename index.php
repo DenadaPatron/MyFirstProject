@@ -11,11 +11,11 @@ $days = 0;
 $specs = 0;
 $mugs = 0;
 $sausages = 0;
-$todaysGood = 0;
+$todaysGood = rand(0,2);
 
 
 do{
-    $todaysGood = rand(0,2);
+
     $days = $days + 1;
 
 
