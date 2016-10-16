@@ -19,7 +19,7 @@ do{
     $days = $days + 1;
 
 
-    $ends = array("st", "nd", "rd", "th", "th", "th", "th", "th", "th", "th");
+    $ends = array("th", "st", "nd", "rd", "th", "th", "th", "th", "th", "th", "th");
         if(($days %100) >=11 && ($days%100) <= 13)
             $a = $days . "th";
         else
