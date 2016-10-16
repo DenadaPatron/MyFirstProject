@@ -36,7 +36,7 @@ do{
         $mugs = $mugs + 1;
     }
 
-    elseif($todaysGood = 0){
+    elseif($todaysGood == 0){
         echo "On the " .$a . " day of the month sausages are available" . "<br/ \n>";
         $sausages = $sausages + 1;
     }
