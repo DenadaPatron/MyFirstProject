@@ -19,18 +19,25 @@ do{
     $days = $days + 1;
 
 
+    $ends = array("st", "nd", "rd", "th", "th", "th", "th", "th", "th", "th");
+        if(($days %100) >=11 && ($days%100) <= 13)
+            $a = $days . "th";
+        else
+            $a = $days . $ends[$days %10];
+
+
     if($todaysGood == 1){
-        echo "On the ". $days ." day of month specs are available" . "<br/ \n>";
+        echo "On the ". $a ." day of month specs are available" . "<br/ \n>";
         $specs = $specs + 1;
     }
 
     elseif($todaysGood == 2){
-        echo "On the " . $days . " day of month mugs are available" . "<br/ \n>";
+        echo "On the " . $a . " day of month mugs are available" . "<br/ \n>";
         $mugs = $mugs + 1;
     }
 
     elseif($todaysGood = 0){
-        echo "On the " .$days . " day of the month sausages are available" . "<br/ \n>";
+        echo "On the " .$a . " day of the month sausages are available" . "<br/ \n>";
         $sausages = $sausages + 1;
     }
 
