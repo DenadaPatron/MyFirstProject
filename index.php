@@ -15,7 +15,7 @@ $todaysGood = 0;
 
 
 
-while(($days <= 30) && ($specs <=7) && ($mugs <= 7) && ($sausages <=7)):
+//while(($days <= 30) && ($specs <=7) && ($mugs <= 7) && ($sausages <=7)):
     $todaysGood = rand(0,2);
     //$days = $days + 1;
     echo $todaysGood;
@@ -32,7 +32,7 @@ while(($days <= 30) && ($specs <=7) && ($mugs <= 7) && ($sausages <=7)):
         echo "On the " .$days . " day of the month sausages are available" . "<br/ \n>";
         $sausages = $sausages + 1;
     }--*/
-endwhile;
+//endwhile;
 
 
 
