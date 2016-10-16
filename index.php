@@ -11,6 +11,7 @@ $days = 0;
 $specs = 0;
 $mugs = 0;
 $sausages = 0;
+$todaysGood = 0;
 
 
 
