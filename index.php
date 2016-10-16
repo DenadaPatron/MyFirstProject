@@ -20,10 +20,10 @@ do{
 
 
     $ends = array("th", "st", "nd", "rd", "th", "th", "th", "th", "th", "th", "th");
-        if(($days %100) >=11 && ($days%100) <= 13)
-            $a = $days . "th";
-        else
-            $a = $days . $ends[$days %10];
+    if(($days %100) >=11 && ($days%100) <= 13)
+        $a = $days . "th";
+    else
+        $a = $days . $ends[$days %10];
 
 
     if($todaysGood == 1){
@@ -45,22 +45,6 @@ do{
 while(($days <= 30) && ($specs <7) && ($mugs < 7) && ($sausages <7));
 
 echo "No more goods available this month.";
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 //$todaysGood = rand(0,2);
 
