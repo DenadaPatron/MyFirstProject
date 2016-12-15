@@ -1,0 +1,98 @@
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="google.com" resolutions="1x" timestamp="1481797987561">
+  <folder name="css">
+    <file name="site_global.css" crc="3916556066"/>
+    <file name="master_a-master.css" crc="3797425028" ref="fan-area:index:log-in:shop:games:blog"/>
+    <file name="fan-area.css" crc="4088750742" ref="fan-area"/>
+    <file name="index.css" crc="4248848588" ref="index"/>
+    <file name="log-in.css" crc="4197043421" ref="log-in"/>
+    <file name="shop.css" crc="3884087956" ref="shop"/>
+    <file name="iefonts_shop.css" crc="241901835" ref="shop"/>
+    <file name="games.css" crc="4285514069" ref="games"/>
+    <file name="blog.css" crc="210146987" ref="blog"/>
+  </folder>
+  <folder name="assets">
+    <file name="cursor-balls.mulib" crc="206890811" seo="true" mt="1444171436000"/>
+    <file name="deadliziff-text-too-speech.mp3" crc="4180416478" seo="true" mt="1481784471000"/>
+    <file name="10-street-b.tif" crc="196128658" seo="true" mt="1478548484000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:blog:shop:fan-area:games:log-in"/>
+    <file name="museutils.js" crc="3851988764" ref="index:blog:shop:fan-area:games:log-in"/>
+    <file name="whatinput.js" crc="86476730" ref="index:blog:shop:fan-area:games:log-in"/>
+    <file name="museconfig.js" crc="4242129463" ref="index:blog:shop:fan-area:games:log-in"/>
+    <file name="pie.js" crc="3831537696" ref="index:blog:shop:fan-area"/>
+    <file name="jquery.musemenu.js" crc="4150485998" ref="index:blog:shop:fan-area:games:log-in"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="index"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="index:blog:shop:fan-area:games:log-in"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:blog:shop:fan-area:games:log-in"/>
+    <file name="require.js" crc="4108833657" ref="index:blog:shop:fan-area:games:log-in"/>
+    <file name="webpro.js" crc="4067903014" ref="blog:fan-area:games:log-in"/>
+    <file name="musewpdisclosure.js" crc="338211507" ref="blog"/>
+    <file name="musewpslideshow.js" crc="4265225696" ref="fan-area:games"/>
+    <file name="jquery.museoverlay.js" crc="4075157096" ref="fan-area:games"/>
+    <file name="touchswipe.js" crc="474750357" ref="fan-area:games"/>
+    <file name="form_check.php" crc="121412709" ref="log-in"/>
+    <file name="form_throttle.php" crc="4268640971" ref="log-in"/>
+    <file name="form_process.php" crc="444429785" ref="log-in"/>
+    <file name="form-u4561.php" crc="4112757883" ref="log-in"/>
+  </folder>
+  <folder name="images">
+    <file name="final design-u1606.png" crc="208345713" ref="index:blog:shop:fan-area:games:log-in"/>
+    <file name="u766-5.png" crc="314339368" ref="index:blog:shop:fan-area:games:log-in"/>
+    <file name="u963-4.png" crc="4106600260" ref="index:blog:shop:fan-area:games:log-in"/>
+    <file name="u1027-4.png" crc="3866664221" ref="index:blog:shop:fan-area:games:log-in"/>
+    <file name="u1063-4.png" crc="4143632730" ref="index:blog:shop:fan-area:games:log-in"/>
+    <file name="u1094-4.png" crc="3994282563" ref="index:blog:shop:fan-area:games:log-in"/>
+    <file name="final design-patterned picc.jpg" crc="373849829" seo="true" ref="index"/>
+    <file name="deadlefizz moving animation.swf" crc="4041789643" ref="index"/>
+    <file name="deadlefizz fadein.swf" crc="87056990" ref="index"/>
+    <file name="login button-normal.png" crc="4271736093" ref="index"/>
+    <file name="login button-rollover.png" crc="3796773496" ref="index"/>
+    <file name="login button-mousedown.png" crc="4142913566" ref="index"/>
+    <file name="login button-active.png" crc="102064881" ref="index"/>
+    <file name="road.jpg" crc="4209590691" seo="true" ref="blog"/>
+    <file name="cactus.jpg" crc="4198687787" seo="true" ref="blog"/>
+    <file name="trees.jpg" crc="4033554809" seo="true" ref="blog"/>
+    <file name="u4394-4.png" crc="146819197" ref="shop"/>
+    <file name="01.png" crc="3992989628" ref="fan-area"/>
+    <file name="02.png" crc="317958186" ref="fan-area"/>
+    <file name="03.png" crc="3911190818" ref="fan-area"/>
+    <file name="04.png" crc="154557669" ref="fan-area"/>
+    <file name="05.png" crc="331507193" ref="fan-area"/>
+    <file name="06.png" crc="4067715498" ref="fan-area"/>
+    <file name="1-crop-u2902.jpg" crc="270335527" ref="games"/>
+    <file name="blank.gif" crc="4208392903" ref="games"/>
+    <file name="2-crop-u3515.jpg" crc="4261237587" ref="games"/>
+    <file name="3.jpg" crc="4281005118" seo="true" ref="games"/>
+    <file name="4-crop-u3555.jpg" crc="3979416542" ref="games"/>
+    <file name="5-crop-u3575.jpg" crc="3933199995" ref="games"/>
+    <file name="6-crop-u3595.jpg" crc="4005017412" ref="games"/>
+    <file name="7-crop-u3615.jpg" crc="3982959127" ref="games"/>
+    <file name="8-crop-u3635.jpg" crc="533909969" ref="games"/>
+    <file name="9-crop-u3655.jpg" crc="4080615942" ref="games"/>
+    <file name="10-crop-u3675.jpg" crc="4191738926" ref="games"/>
+    <file name="11.jpg" crc="4155068398" seo="true" ref="games"/>
+    <file name="12-crop-u3715.jpg" crc="364672468" ref="games"/>
+    <file name="13-crop-u3735.jpg" crc="4243279598" ref="games"/>
+    <file name="14.jpg" crc="4143811988" seo="true" ref="games"/>
+    <file name="15.jpg" crc="3859085667" seo="true" ref="games"/>
+    <file name="left.png" crc="389298681" ref="games"/>
+    <file name="right.png" crc="4158771825" ref="games"/>
+    <file name="loading.gif" crc="3815509949" ref="games"/>
+    <file name="media buttons-backc.png" crc="62917412" seo="true" ref="games"/>
+    <file name="media buttons-arrowc.png" crc="4038548144" seo="true" ref="games"/>
+    <file name="media buttons-soundc.png" crc="3833384120" seo="true" ref="games"/>
+    <file name="media buttons-nextc.png" crc="493248054" seo="true" ref="games"/>
+    <file name="deadlefizz skate.swf" crc="155272129" ref="log-in"/>
+    <file name="u4581-17.png" crc="3967501596" ref="log-in"/>
+    <file name="u4581-17-r.png" crc="4120316743" ref="log-in"/>
+    <file name="u4581-17-m.png" crc="4120316743" ref="log-in"/>
+    <file name="u4581-17-fs.png" crc="3855964423" ref="log-in"/>
+  </folder>
+  <file name="index.html" crc="372054780" seo="true" mt="1481796217404" redirect="true"/>
+  <file name="blog.html" crc="3799737105" seo="true" mt="1481797961071" redirect="true"/>
+  <file name="shop.html" crc="4088353857" seo="true" mt="1481796217401" redirect="true"/>
+  <file name="fan-area.html" crc="4237426101" seo="true" mt="1481796217401" redirect="true"/>
+  <file name="games.html" crc="224068408" seo="true" mt="1481796217407" redirect="true"/>
+  <file name="log-in.html" crc="4149515639" seo="true" mt="1481796217401" redirect="true"/>
+</manifest>
