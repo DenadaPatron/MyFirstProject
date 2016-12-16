@@ -2,91 +2,79 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://Google.com/index.html</loc>
-    <lastmod>2016-12-15</lastmod>
+    <lastmod>2016-12-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://Google.com/games.html</loc>
-    <lastmod>2016-12-15</lastmod>
+    <lastmod>2016-12-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://Google.com/log-in.html</loc>
-    <lastmod>2016-12-15</lastmod>
+    <lastmod>2016-12-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://Google.com/fan-area.html</loc>
-    <lastmod>2016-12-15</lastmod>
+    <lastmod>2016-12-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://Google.com/shop.html</loc>
-    <lastmod>2016-12-15</lastmod>
+    <lastmod>2016-12-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://Google.com/blog.html</loc>
-    <lastmod>2016-12-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://Google.com/images/trees.jpg</loc>
-    <lastmod>2016-12-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://Google.com/images/3.jpg</loc>
-    <lastmod>2016-12-15</lastmod>
+    <lastmod>2016-12-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://Google.com/images/11.jpg</loc>
-    <lastmod>2016-12-15</lastmod>
+    <lastmod>2016-12-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://Google.com/images/road.jpg</loc>
-    <lastmod>2016-12-15</lastmod>
+    <loc>http://Google.com/images/14.jpg</loc>
+    <lastmod>2016-12-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://Google.com/images/cactus.jpg</loc>
-    <lastmod>2016-12-15</lastmod>
+    <loc>http://Google.com/images/blog%20assets-layer%202c.png</loc>
+    <lastmod>2016-12-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://Google.com/images/media%20buttons-backc.png</loc>
-    <lastmod>2016-12-15</lastmod>
+    <loc>http://Google.com/images/3.jpg</loc>
+    <lastmod>2016-12-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://Google.com/images/media%20buttons-arrowc.png</loc>
-    <lastmod>2016-12-15</lastmod>
+    <lastmod>2016-12-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://Google.com/images/media%20buttons-soundc.png</loc>
-    <lastmod>2016-12-15</lastmod>
+    <lastmod>2016-12-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://Google.com/images/media%20buttons-nextc.png</loc>
-    <lastmod>2016-12-15</lastmod>
+    <lastmod>2016-12-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -97,8 +85,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://Google.com/images/final%20design-patterned%20picc.jpg</loc>
-    <lastmod>2016-12-15</lastmod>
+    <loc>http://Google.com/images/blog%20assets-layer%201c.png</loc>
+    <lastmod>2016-12-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -109,8 +97,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://Google.com/images/14.jpg</loc>
-    <lastmod>2016-12-15</lastmod>
+    <loc>http://Google.com/images/15.jpg</loc>
+    <lastmod>2016-12-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -121,8 +109,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://Google.com/images/15.jpg</loc>
-    <lastmod>2016-12-15</lastmod>
+    <loc>http://Google.com/images/media%20buttons-backc.png</loc>
+    <lastmod>2016-12-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
